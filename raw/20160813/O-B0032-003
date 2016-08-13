@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+ <identifier>8ac10553-fac1-4323-a8b1-34d6c6e4d7b5</identifier>
+ <sender>weather@cwb.gov.tw</sender>
+ <sent>2016-08-13T10:48:44+08:00</sent>
+ <status>Actual</status>
+ <msgType>Issue</msgType>
+ <scope>Public</scope>
+ <dataid>B0032-003</dataid>
+ <source>Meteorological Satellite Center</source>
+
+ <dataset>
+  <datasetInfo>
+   <datasetDescription>????</datasetDescription>
+   <parameterSet>
+<parameter>
+     <parameterName>????</parameterName>
+     <parameterValue>102.0 - 155.0</parameterValue>
+  </parameter>
+<parameter>
+     <parameterName>????</parameterName>
+     <parameterValue>-1.0 - 48.0</parameterValue>
+  </parameter>
+   </parameterSet>
+  </datasetInfo>
+  <resource>
+   <resourceDesc>??????????????</resourceDesc>
+   <mimeType>image/jpeg</mimeType>
+   <uri>http://opendata.cwb.gov.tw/opendata/MSC/O-B0032-003.jpg</uri>
+  </resource>
+  <time>
+   <obsTime>2016-08-13T10:30:00+08:00</obsTime>
+  </time>
+ </dataset>
+</cwbopendata>

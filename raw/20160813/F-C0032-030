@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>591884f3-1fd5-096d-ec1c-afb627926d9d</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T07:27:37+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-030</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T07:32:05+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>連江縣</locationName>
+      <stationId>46799</stationId>
+      <geocode>09007</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>多雲短暫陣雨或雷雨，有長浪發生機率</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨天(8月12日)馬祖地區清晨有短暫雨，傍晚有雷雨，最高溫度31.2度，最低溫度26度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天(8月13日)低壓帶影響，馬祖地區為多雲短暫陣雨或雷雨，氣溫27至32度。天氣不穩定，外出請記得攜帶雨具。馬祖沿海易有長浪發生的機率，請注意。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>海象方面</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天(8月13日)臺灣北部海面為多雲局部陣雨或雷雨的天氣，偏東轉東南風，大浪轉中浪再轉大浪，浪高3轉2再轉3公尺，風力5至6雷雨區陣風9級上午轉4至5雷雨區陣風8級下午再轉5至6雷雨區陣風9級；馬祖海面為多雲局部陣雨或雷雨的天氣，東北轉偏東風，中浪轉大浪，浪高2轉3公尺，風力4至5雷雨區陣風8級，下午轉5至6雷雨區陣風9級。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

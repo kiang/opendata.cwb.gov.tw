@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>5e1ca9a9-99d5-4a56-8b83-d0bb1e62d4a4</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T08:15:39+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-011</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T08:19:04+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>基隆市</locationName>
+      <stationId>46694</stationId>
+      <geocode>10017</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>受低壓帶影響，溫度炎熱，有較大雨勢</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>＝天氣概述＝</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今（１３）日受低壓帶影響，有短暫陣雨或雷雨；沿海地區有長浪發生的機率。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>＝預報現況＝</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今日白天為陰時多雲陣雨或雷雨，降雨機率７０％，氣溫２６－３２度 ；基隆近海，東南風，５至６雷雨區陣風９級。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>＝預報總結＝</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>基隆地區今天白天為陰時多雲陣雨或雷雨，屬於不穩定的天氣型態，部分地區有較大雨勢，降雨機率70％，溫度26－32度。提醒您，在外工作、訪友、逛街請隨身攜帶雨具，路面溼滑，請小心行車、行路安全；空曠處及山區小心落雷；海面風浪仍大，沿海空曠地區有較大陣風，於海邊或海上從事活動時，請先確保自身安全。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>ba70fd18-f69a-c599-6648-6248bdee56bc</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T05:21:31+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-013</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T05:25:29+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>宜蘭縣</locationName>
+      <stationId>46708</stationId>
+      <geocode>10002</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶影響，天氣不穩定，外出請備雨具；白天悶熱，外出記得多補充水分</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨(12)日受到低壓帶影響，各鄉鎮都有短暫陣雨的情形，氣溫方面，宜蘭市高溫33.2度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日受到低壓帶影響，天氣仍不穩定，提醒外出要記得攜帶雨具。此外，沒下雨時紫外線依舊偏強，白天戶外活動還是要做好防曬工作。氣溫方面，午間比較悶熱，預測氣溫26~32度，太平山氣溫15~22度，提醒外出活動要多補充水分。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>在沿岸及海上風浪部份：</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>宜蘭蘇澳沿海預測天氣為多雲時陰局部陣雨或雷雨，風向為東南風轉偏南風，風浪為小浪轉大浪，平均風力4至5雷雨區陣風8級下午轉5至6雷雨區陣風9級。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>海岸邊以蘇澳為例，天氣為陰時多雲陣雨或雷雨，氣溫26~31度，風力在3~4級，降雨機率為70%。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>「2016宜蘭國際童玩藝術節」，會場天氣為陰時多雲陣雨或雷雨，預測氣溫26~33度，降雨機率70%。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

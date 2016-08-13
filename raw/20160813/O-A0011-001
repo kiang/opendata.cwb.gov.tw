@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1"> 
+ <identifier>3fe5f92c-6102-11e6-a008-2c44fd83e9f8</identifier> 
+ <sender>weather@cwb.gov.tw</sender> 
+ <sent>2016-08-13T11:01:37+08:00</sent> 
+ <status>Actual</status> 
+ <msgType>Issue</msgType> 
+ <scope>Public</scope> 
+ <source>Telecommunications and Radar Division</source> 
+ 
+ <dataset> 
+ <datasetinfo> 
+   <datasetDescription>????</datasetDescription> 
+   <parameterset> 
+     <parameterName>????</parameterName> 
+     <parameterValue>117.3 - 124.8</parameterValue> 
+   </parameterset> 
+   <parameterset> 
+     <parameterName>????</parameterName> 
+     <parameterValue>19.7 - 27.2</parameterValue> 
+   </parameterset> 
+ </datasetinfo> 
+ <time> 
+ <obsTime>2016-08-13T10:54:00+08:00</obsTime> 
+ </time> 
+  <resource> 
+   <resourceDesc>?????</resourceDesc> 
+   <mimeType>image/jpeg</mimeType> 
+   <uri>http://opendata.cwb.gov.tw/opendata/DIV4/O-A0011-001.jpg</uri> 
+  </resource> 
+ </dataset> 
+</cwbopendata>

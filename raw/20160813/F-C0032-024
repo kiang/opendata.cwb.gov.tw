@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>5b7f5911-ba28-072f-3821-e466bb0907dc</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T07:27:37+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-024</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T07:32:59+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>新竹市</locationName>
+      <stationId>46757</stationId>
+      <geocode>10018</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶影響，多雲短暫陣雨或雷雨，外出請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨(12)日，新竹市地區受低壓帶影響，各地有降雨發生，香山區累積雨量11.0毫米，氣溫約26~31度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日，新竹市地區受低壓帶影響，為多雲短暫陣雨或雷雨的天氣。預報溫度26-32度，外出請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日，新竹近海平均風力風力5至6雷雨區陣風9級，海上活動請注意安全。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

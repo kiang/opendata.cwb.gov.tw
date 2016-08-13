@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>15a66110-58ae-750f-6ff2-8a32118e6f84</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T07:27:37+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-023</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T07:32:27+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>新竹縣</locationName>
+      <stationId>46757</stationId>
+      <geocode>10004</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶影響，多雲短暫陣雨或雷雨，外出請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨(12)日，新竹縣地區受低壓帶影響，各地有降雨發生，累積雨量以湖口70.5毫米為最多。竹北市氣溫約26~32度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日，新竹縣地區受低壓帶影響，為多雲短暫陣雨或雷雨的天氣。預報溫度26-33度，外出請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日，新竹近海平均風力5至6雷雨區陣風9級，海上活動請注意安全。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1"> 
+ <identifier>6f679576-6101-11e6-b9e1-2c44fd83e9f8</identifier> 
+ <sender>weather@cwb.gov.tw</sender> 
+ <sent>2016-08-13T10:55:47+08:00</sent> 
+ <status>Actual</status> 
+ <msgType>Issue</msgType> 
+ <dataid>A0038_001</dataid> 
+ <scope>Public</scope> 
+ 
+ <dataset> 
+ <datasetinfo> 
+   <datasetDescription>????</datasetDescription> 
+   <parameterset> 
+     <parameterName>????</parameterName> 
+     <parameterValue>119.41 - 123.41</parameterValue> 
+   </parameterset> 
+   <parameterset> 
+     <parameterName>????</parameterName> 
+     <parameterValue>21.86 - 25.86</parameterValue> 
+   </parameterset> 
+ </datasetinfo> 
+ <time> 
+ <obsTime>2016-08-13T10:00:00+08:00</obsTime> 
+ </time> 
+  <resource> 
+   <resourceDesc>?????</resourceDesc> 
+   <mimeType>image/jpeg</mimeType> 
+   <uri>http://opendata.cwb.gov.tw/opendata/DIV2/O-A0038-001.jpg</uri> 
+  </resource> 
+ </dataset> 
+</cwbopendata>

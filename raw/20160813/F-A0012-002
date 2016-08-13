@@ -1,0 +1,4242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier >f72e3076-f767-8bd0-4916-d6c26498abb3</identifier>
+    <sender >weather@cwb.gov.tw</sender>
+    <sent >2016-08-13T09:57:09+08:00</sent>
+    <status >Actual</status>
+    <msgType >Issue</msgType>
+    <source >MFC</source>
+    <dataid >A0012-002</dataid>
+    <scope >Public</scope>
+    <dataset >
+        <datasetInfo>
+            <datasetDescription>Sea Weather Forecast</datasetDescription>
+            <issueTime>2016-08-13T10:30:00+08:00</issueTime>
+            <update>2016-08-13T09:57:09+08:00</update>
+</datasetInfo>
+        <location>
+            <locationName>DIAOYUTAI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PENGJIAYU-KEELUNG INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>YILAN-SU-AO INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HSINCHU-LUKANG INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PENGHU INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LUKANG-DONGSHI INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>DONGSHI-ANPING INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E BECOMING S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ANPING-KAOHSIUNG INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KAOHSIUNG-FANGLIAO INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>FANGLIAO-HENGCHUN INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ELUANBI INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 TO 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves TO Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>CHENGGONG-TAITUNG INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>W</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>W BECOMING SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>TAITUNG-DAWU INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 TO 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves TO Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LUDAO-LANYU INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 TO 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 TO 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves TO Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves TO Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HUALIEN INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KINMEN INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>N BECOMING E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MATSU INSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>NE BECOMING E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SOUTHERN YELLOW SEA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLEAR</parameterName>
+                        <parameterValue>8</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING NW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>NW BECOMING N</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS BECOMING 15 KTS TO 20 KTS GUST 30 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HUANIAOSHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ZHEJIANG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NORTHERN EAST CHINA SEA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING NW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SOUTHERN EAST CHINA SEA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>E BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS GUST 30 KTS BECOMING 10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS GUST 25 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NORTH TAIWAN OFFSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 37 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NORTHEAST TAIWAN OFFSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 1 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Small waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SOUTHEAST TAIWAN OFFSHORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10 KTS TO 15 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>1 TO 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Small waves TO Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NORTH TAIWAN STRAIT</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SOUTH TAIWAN STRAIT</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S BECOMING SE</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SE BECOMING S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15 KTS TO 20 KTS IN THUNDERSHOWERS AREA GUST 39 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 2 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Moderate (1.2 m) longer waves</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BASHI CHANNEL</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW BECOMING S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>S</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KWANGTUNG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 4 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Sea heaps up and foam begins to streak</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PRATAS</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>2 TO 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Moderate (1.2 m) longer waves TO Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PARACELS</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS BECOMING 20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 42 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20 KTS TO 25 KTS IN THUNDERSHOWERS AREA GUST 44 KTS BECOMING 25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 4 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>4 BECOMING 3 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 BECOMING 4 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Sea heaps up and foam begins to streak</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Sea heaps up and foam begins to streak BECOMING Large waves with foam crests and some spray</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray BECOMING Sea heaps up and foam begins to streak</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NANSHA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH LOCAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindDir</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SW</parameterName>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WindSpeed</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25 KTS TO 30 KTS IN THUNDERSHOWERS AREA GUST 49 KTS</parameterName>
+                        <parameterUnit>KTS</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveHeight</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 TO 4 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 TO 4 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>3 TO 4 METER</parameterName>
+                        <parameterUnit>METER</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>WaveType</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray TO Sea heaps up and foam begins to streak</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray TO Sea heaps up and foam begins to streak</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>Large waves with foam crests and some spray TO Sea heaps up and foam begins to streak</parameterName>
+</parameter>
+</time>
+</weatherElement>
+</location>
+</dataset>
+</cwbopendata>

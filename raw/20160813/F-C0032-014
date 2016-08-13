@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>92e5e793-9aa0-f86b-73c6-46e2d0b7bfca</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T08:09:39+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-014</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T08:13:28+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>金門縣</locationName>
+      <stationId>46711</stationId>
+      <geocode>09020</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>多雲時陰短暫陣雨或雷雨，外出時請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>金門地區昨天(12日)天氣多雲時陰短暫陣雨，最低溫度26.2度，最高溫32.1度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>預測今天(13日)天氣受低壓帶影響，多雲時陰短暫陣雨或雷雨，氣溫27 - 32度，降雨機率70%。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日水頭地區乾潮時間為1348，來往各景點遊客留意潮高並注意安全。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>金門今天(13日)近海預測：東北轉偏東風，４級以下雷雨區陣風８級上午轉４至５雷雨區陣風８級晚再轉５至６雷雨區陣風９級，浪高１轉２再轉３公尺，小浪轉中浪再轉大浪，多雲局部陣雨或雷雨的天氣</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

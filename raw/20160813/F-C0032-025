@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>9dc42f3b-4c3f-80fe-4b70-79e342286bca</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T05:18:31+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-025</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T05:22:06+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>屏東縣</locationName>
+      <stationId>46759</stationId>
+      <geocode>10013</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶影響，陰陣雨或雷雨。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日屏東地區受低壓帶影響，平原區陰陣雨或雷雨，降雨機率70%;屏北山區多雲短暫陣雨或雷雨，降雨機率80%;恆春半島陰陣雨或雷雨，降雨機率70%;</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>外出記得攜帶雨具。氣溫約22~29度，平均風力2-4級，天氣清晨及夜晚舒適，午後悶熱。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>屏東縣附近旅遊景點天氣預報</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>•墾丁國家公園墾管處遊客中心 陰陣雨或雷雨 26~28℃ 偏南風 降雨機率70%;</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>•墾丁國家森林遊樂區 陰陣雨或雷雨 24~26℃ 偏南風 降雨機率70%;</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>•雙流國家森林遊樂區 陰陣雨或雷雨 24~26℃ 東南風 降雨機率80%;</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>•大鵬灣國家風景區 陰陣雨或雷雨 27~28℃ 偏南風 降雨機率70%;</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>•茂林國家風景區 陰陣雨或雷雨 24~28℃ 西南風 降雨機率80%;</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>•牡丹水庫 陰陣雨或雷雨 24~27℃ 東南風 降雨機率70%。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13)日近海風浪預報</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>偏西轉東南風，平均風力4至5級雷雨區陣風8級下午再轉5至6雷雨區陣風9級，浪高2轉3公尺，中浪轉大浪，陰局部陣雨或雷雨。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

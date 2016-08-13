@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>028317f7-ec19-0f6e-170b-48a4ebc6a522</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T05:21:32+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-020</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T05:26:52+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>苗栗縣</locationName>
+      <stationId>46749</stationId>
+      <geocode>10005</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>陰時多雲短暫陣雨或雷雨，外出請攜帶雨具備用。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>苗栗地區昨天（12日）為陰有雨的天氣，白天悶熱，局部地區有大雨發生；三義氣溫24.4-28℃，竹南氣溫25.8-29.9℃。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>苗栗縣今天（13日）受低壓帶影響，為陰時多雲短暫陣雨或雷雨的天氣，氣溫25-32℃；白天悶熱適時補充水分避免中暑，外出活動請攜帶雨具，雷雨區請慎防雷擊、瞬間大雨及溪水暴漲。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天（13日）三義鄉(東苗栗)為陰時多雲短暫陣雨或雷雨的天氣，氣溫25-32℃，降雨機率60%；苗栗市(西苗栗)為陰時多雲短暫陣雨或雷雨的天氣，氣溫25-32℃，降雨機率60%。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天（13日）明德水庫為陰時多雲短暫陣雨或雷雨的天氣，氣溫24-32℃；鯉魚潭水庫為陰時多雲短暫陣雨或雷雨的天氣，氣溫24-31℃；雪霸國家公園觀霧遊憩區為陰時多雲短暫陣雨或雷雨的天氣，氣溫18-22℃。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天（13日）苗栗沿海地區平均風力5至6雷雨區陣風9級上午轉4至5雷雨區陣風8級下午再轉5至6雷雨區陣風9級，船隻或沿岸活動，請注意安全。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

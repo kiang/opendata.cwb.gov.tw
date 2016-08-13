@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>ddc4ebe7-d9c5-d8ef-8b09-d142ee48210d</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T05:21:32+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-021</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T05:27:07+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>台中市</locationName>
+      <stationId>46749</stationId>
+      <geocode>66</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>陰時多雲陣雨或雷雨，外出活動請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>臺中地區昨天（12日）為陰有雨的天氣，局部地區有大雨發生；臺中公園及一中商圈氣溫25.4-28.1℃，梧棲氣溫24.7-29.4℃。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>臺中市今天（13日）受低壓帶影響，為陰時多雲陣雨或雷雨的天氣，氣溫25-31℃，白天悶熱，適時補充水分避免中暑；外出活動請攜帶雨具，雷雨區請慎防雷擊、瞬間大雨及溪水暴漲。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天（13日）西區(盆地)為陰時多雲陣雨或雷雨的天氣，氣溫25-31℃，降雨機率70%；太平區(近山區)為陰時多雲陣雨或雷雨的天氣，氣溫25-31℃，降雨機率70%；大雅區(臺地)為陰時多雲陣雨或雷雨的天氣，氣溫25-30℃，降雨機率70%；梧棲區(濱海)為陰時多雲陣雨或雷雨的天氣，氣溫26-30℃，降雨機率70%。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天（13日）梨山為陰時多雲陣雨或雷雨的天氣，氣溫11-23℃；大雪山國家森林遊樂區為陰時多雲陣雨或雷雨的天氣，氣溫13-21℃；臺中港為陰時多雲陣雨或雷雨的天氣，氣溫26-30℃。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天（13日）臺中沿海地區平均風力5至6雷雨區陣風9級上午轉4至5雷雨區陣風8級下午再轉5至6雷雨區陣風9級，船隻或沿岸活動，請注意安全。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

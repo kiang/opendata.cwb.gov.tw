@@ -1,0 +1,2724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbtyphfcst xmlns="http://www.cwb.wfc.typhoonfcstCE/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cwb.wfc.typhoonfcstCE/namespace typhooninfor.xsd">
+	<announcement>
+		<名稱公告>颱風預報</名稱公告>
+		<欄位公告>typhinfo:颱風資料 typhcount:本報包含颱風個數 identification:發佈時間 typhoon:對於一個颱風的資料 typhname:颱風的名稱 properties:颱風的屬性 lang:颱風名稱的語言 name:該語言的名稱 typhno:該颱風之編號(integer) characterization:該颱風之特徵(保留) typhdata:單一預報機構發佈之預報 source:機構名稱 time:資料時間(UTC+8) past:過去資料 current:現在資料 forecast:未來資料 point:過去路徑之資料點(暴風中心)與未來預報之預報點 time:該預報點之時間(UTC+8) location:在該點之經緯度 latitude:緯度(degree) longitude:經度(degree) status:颱風在該點之狀態 
+        intensity_struture:強度結構 intensity:近中心最大風速(m/s) gust:近中心最大陣風(m/s) central_pressure:中心氣壓(hPa) windcircle:暴風半徑 wind_grade:蒲福風級強度 arcrange:某個風級強度的暴風圈 start:起始角度(degree) end:結束角度(degree) radius:暴風半徑長度(km) movement:移動狀態 move_description:移動描述 status_description:狀態描述 probability:機率圓預報 percentage:機率百分比(percentage)</欄位公告>
+		<起用時間公告>2006-07-01</起用時間公告>
+		<著作權公告>本檔案的內容，包括但不限於所有文本、平面圖像、圖畫、圖片、照片以及數據或其他資料的匯編，均受版權保障。中央氣象局是本檔案內所有版權作品的擁有人，除非預先得到中央氣象局的書面授權，否則嚴禁複製、改編、分發、發布或向公眾提供該等版權作品。</著作權公告>
+		<使用責任公告>中央氣象局（包括其僱員及代理人）對於本檔案所載資料的準確性、可用性、完整性或效用，概不作出明確或暗示的保證、聲明或陳述；在法律許可的範圍內，對於提供或使用這些資料而可能直接或間接引致任何損失、損壞或傷害（包括死亡），亦不負任何法律承擔或責任（包括疏忽責任）。依據氣象法第十七條、第十八條、第十九條相關規定，全國氣象警報之發布或災害性天氣之預報，由中央氣象局統一發布。新聞傳播機構對中央氣象局發布之氣象預報或警報，均應適時據實廣為傳播；如有錯誤，經中央氣象局通知後，應立即更正。</使用責任公告>
+		<提供者公告>中央氣象局</提供者公告>
+		<聯繫方式公告>歡迎向中央氣象局申請授權發布或向公眾提供本檔案的內容。如有任何查詢，請電郵(webquery@cwb.gov.tw)或傳真(02-23491212)至預報中心。</聯繫方式公告>
+		<檔案內容>本檔案為中央氣象局提供之目前颱風資訊檔案, 其中包含颱風過去、現在及未來預報之資訊。 第一層為announcement, 即關於本檔案一切之聲明、公告與說明。 而typhinfo則為颱風資料之說明. typhcount之數值, 代表本檔案所含有之颱風資料個數, 而published為本檔案之製作時間。 本檔案得包含本局目前作業中之所有颱風資料。 typhinfo的第二層為typhoon, 為每個颱風的資料, identification為該颱風發生年份與英文名稱組成之識別碼。 properties為該颱風之屬性, 目前僅有typhname颱風名稱與typhno颱風編號兩項。 typhname內有中文與英文名稱, characterization為該颱風之特徵, 目前本項保留。 
+		typhdata為颱風在每個時間點的資訊, source為提供該段資料之作業單位。 在typhdata內, 分為past過去資料, curr現在狀況, 與fcst未來預報。 在這三項下, 下一層都是point, time為颱風在該點之時間。 共有的部份為location位置與itensity_structure強度與結構。 location下面有latitude緯度與longitude經度, quadrant為東經或西經, 北緯或南緯, value是經度或緯度的數值。 intensity_structure為強度與結構之資訊, 在intensity是強度的資訊. maxwind為近颱風中心最大風速, gust則為近颱風中心最大陣風, 而central_pressure為颱風之中心氣壓。 
+		unit為度量的單位, value則是值. 在unit內, 本檔案常用的度量單位有m/s每秒公尺, hPa百帕, degree度, km公里。 structure為描述八方位暴風半徑的資訊, wind_distribution是風力在大於某個蒲福風級級數的強風分佈範圍, wind_grade就是該強風分佈範圍對應的蒲福風級級數。 例如 wind_distribution wind_grade="7"就是七級風暴風半徑。 為因應未來的暴風圈不對稱結構的分析與預報, 可能在每個方位並不一定是一樣的半徑, 所以我們設計了八方位的扇形半徑。 每一個dir就是一個扇形, angle是表示扇形的角度範圍, 從0度為正北順時針旋轉一圈360度, 是start是扇形的起始角度, end是扇形的結束角度。 
+		而radius就是半徑大小, 在本xml中, 所有的扇形(圓形)都採用這種方式描述。 curr下面有status_description, 為預報颱風的移動變化情形與強度變化情形之文字描述。目前下面有兩項, movement為移動狀態的描述, transition則是描述強度的改變。 fcst下面有probability, 為各預報點之機率圓半徑的預報資料, 資料讀法如同前面對八方位暴風半徑的說明。 每一個機率的預報圓為strike_radius, percentage則為侵襲機率, strike_radius precentage="70"就是70%的預報圓。 在curr下面的status_descrpition</檔案內容>
+	</announcement>
+	<typhinfo typhcount="3" published="2016-08-13T10:26:10+08:00">
+		<typhoon identification="2016LUPIT">
+			<properties>
+				<typhname lang="EN" value="LUPIT"/>
+				<typhname lang="TW" value="盧碧"/>
+				<typhno>201602</typhno>
+			</properties>
+			<characterization>
+			</characterization>
+			<typhdata source="CWB">
+				<past>
+					<point time="2016-07-24T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="28.5"/>
+							<longitude quadrant="east" value="157.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-07-24T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="31.0"/>
+							<longitude quadrant="east" value="158.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-07-24T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="33.2"/>
+							<longitude quadrant="east" value="159.3"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+				</past>
+				<curr>
+                   <point time="2016-07-24T20:00:00+08:00">
+                       <location>
+							<latitude quadrant="north" value="35.0"/>
+							<longitude quadrant="east" value="159.3"/>
+						</location>
+            			<status_description>
+            				<movement>以每小時42公里速度，向北轉北北西進行</movement>
+            				<transition>溫帶氣旋</transition>
+            				<warning></warning>
+            			</status_description>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+				</curr>
+				<fcst>
+					<point time="2016-07-25T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="39.5"/>
+							<longitude quadrant="east" value="158.6"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="15"/>
+							    <gust unit="m/s" value="23"/>
+							    <central_pressure unit="hPa" value="1000"/>
+						    </intensity>
+						    <structure>
+
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="130"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+				</fcst>
+			</typhdata>
+		</typhoon>
+		<typhoon identification="2016OMAIS">
+			<properties>
+				<typhname lang="EN" value="OMAIS"/>
+				<typhname lang="TW" value="奧麥斯"/>
+				<typhno>201605</typhno>
+			</properties>
+			<characterization>
+			</characterization>
+			<typhdata source="CWB">
+				<past>
+					<point time="2016-08-04T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="18.8"/>
+							<longitude quadrant="east" value="148.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-04T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="19.2"/>
+							<longitude quadrant="east" value="148.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-05T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="19.2"/>
+							<longitude quadrant="east" value="147.7"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-05T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="20.0"/>
+							<longitude quadrant="east" value="147.3"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-05T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="21.0"/>
+							<longitude quadrant="east" value="147.2"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="20"/>
+							    <gust unit="m/s" value="28"/>
+							    <central_pressure unit="hPa" value="995"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-05T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="22.5"/>
+							<longitude quadrant="east" value="147.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-06T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="23.2"/>
+							<longitude quadrant="east" value="147.6"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-06T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="24.2"/>
+							<longitude quadrant="east" value="147.9"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="200"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-06T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="25.2"/>
+							<longitude quadrant="east" value="147.6"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="28"/>
+							    <gust unit="m/s" value="35"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="220"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-06T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="26.3"/>
+							<longitude quadrant="east" value="147.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="30"/>
+							    <gust unit="m/s" value="35"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+							    <wind_distribution wind_grade="10">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+							    </wind_distribution>
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-07T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="27.4"/>
+							<longitude quadrant="east" value="147.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="30"/>
+							    <gust unit="m/s" value="38"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+							    <wind_distribution wind_grade="10">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="50"/>
+								    </dir>
+							    </wind_distribution>
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-07T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="28.4"/>
+							<longitude quadrant="east" value="147.1"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="30"/>
+							    <gust unit="m/s" value="38"/>
+							    <central_pressure unit="hPa" value="975"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+							    <wind_distribution wind_grade="10">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+							    </wind_distribution>
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-07T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="29.9"/>
+							<longitude quadrant="east" value="146.9"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="30"/>
+							    <gust unit="m/s" value="38"/>
+							    <central_pressure unit="hPa" value="975"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+							    <wind_distribution wind_grade="10">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+							    </wind_distribution>
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-07T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="31.6"/>
+							<longitude quadrant="east" value="146.1"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="30"/>
+							    <gust unit="m/s" value="38"/>
+							    <central_pressure unit="hPa" value="978"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+							    <wind_distribution wind_grade="10">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+							    </wind_distribution>
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-08T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="32.4"/>
+							<longitude quadrant="east" value="144.9"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="30"/>
+							    <gust unit="m/s" value="38"/>
+							    <central_pressure unit="hPa" value="978"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+							    <wind_distribution wind_grade="10">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="80"/>
+								    </dir>
+							    </wind_distribution>
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-08T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="33.0"/>
+							<longitude quadrant="east" value="144.2"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="28"/>
+							    <gust unit="m/s" value="35"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-08T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="34.4"/>
+							<longitude quadrant="east" value="143.7"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="28"/>
+							    <gust unit="m/s" value="35"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-08T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="35.6"/>
+							<longitude quadrant="east" value="143.9"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="28"/>
+							    <gust unit="m/s" value="35"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-09T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="36.8"/>
+							<longitude quadrant="east" value="144.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="28"/>
+							    <gust unit="m/s" value="35"/>
+							    <central_pressure unit="hPa" value="980"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-09T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="37.8"/>
+							<longitude quadrant="east" value="145.3"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-09T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="40.0"/>
+							<longitude quadrant="east" value="147.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+				</past>
+				<curr>
+                   <point time="2016-08-09T20:00:00+08:00">
+                       <location>
+							<latitude quadrant="north" value="42.0"/>
+							<longitude quadrant="east" value="148.0"/>
+						</location>
+            			<status_description>
+            				<movement>以每小時56公里速度，向東北進行</movement>
+            				<transition>溫帶氣旋</transition>
+            				<warning></warning>
+            			</status_description>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="250"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+				</curr>
+				<fcst>
+					<point time="2016-08-10T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="46.6"/>
+							<longitude quadrant="east" value="153.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="15"/>
+							    <gust unit="m/s" value="23"/>
+							    <central_pressure unit="hPa" value="1000"/>
+						    </intensity>
+						    <structure>
+
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="130"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+				</fcst>
+			</typhdata>
+		</typhoon>
+		<typhoon identification="2016CONSON">
+			<properties>
+				<typhname lang="EN" value="CONSON"/>
+				<typhname lang="TW" value="康森"/>
+				<typhno>201606</typhno>
+			</properties>
+			<characterization>
+			</characterization>
+			<typhdata source="CWB">
+				<past>
+					<point time="2016-08-09T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="17.2"/>
+							<longitude quadrant="east" value="160.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="18"/>
+							    <gust unit="m/s" value="25"/>
+							    <central_pressure unit="hPa" value="998"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="100"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-09T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="17.3"/>
+							<longitude quadrant="east" value="159.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="20"/>
+							    <gust unit="m/s" value="28"/>
+							    <central_pressure unit="hPa" value="995"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-09T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="16.9"/>
+							<longitude quadrant="east" value="158.6"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="20"/>
+							    <gust unit="m/s" value="28"/>
+							    <central_pressure unit="hPa" value="995"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-09T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="17.0"/>
+							<longitude quadrant="east" value="158.3"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-10T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="18.0"/>
+							<longitude quadrant="east" value="157.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="120"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-10T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="18.2"/>
+							<longitude quadrant="east" value="156.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-10T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="18.7"/>
+							<longitude quadrant="east" value="155.2"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-10T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="18.8"/>
+							<longitude quadrant="east" value="154.2"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-11T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="19.6"/>
+							<longitude quadrant="east" value="154.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="25"/>
+							    <gust unit="m/s" value="33"/>
+							    <central_pressure unit="hPa" value="985"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-11T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="20.1"/>
+							<longitude quadrant="east" value="153.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-11T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="20.6"/>
+							<longitude quadrant="east" value="153.8"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-11T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="21.9"/>
+							<longitude quadrant="east" value="154.3"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-12T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="23.5"/>
+							<longitude quadrant="east" value="154.8"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-12T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="25.3"/>
+							<longitude quadrant="east" value="155.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="20"/>
+							    <gust unit="m/s" value="28"/>
+							    <central_pressure unit="hPa" value="995"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-12T14:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="26.2"/>
+							<longitude quadrant="east" value="155.8"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="20"/>
+							    <gust unit="m/s" value="28"/>
+							    <central_pressure unit="hPa" value="995"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-12T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="28.0"/>
+							<longitude quadrant="east" value="155.8"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="20"/>
+							    <gust unit="m/s" value="28"/>
+							    <central_pressure unit="hPa" value="995"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+					<point time="2016-08-13T02:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="28.6"/>
+							<longitude quadrant="east" value="155.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+				</past>
+				<curr>
+                   <point time="2016-08-13T08:00:00+08:00">
+                       <location>
+							<latitude quadrant="north" value="29.8"/>
+							<longitude quadrant="east" value="155.0"/>
+						</location>
+            			<status_description>
+            				<movement>以每小時25轉30公里速度，向北北西轉西北進行</movement>
+            				<transition>溫帶氣旋</transition>
+            				<warning></warning>
+            			</status_description>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+					</point>
+				</curr>
+				<fcst>
+					<point time="2016-08-13T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="32.1"/>
+							<longitude quadrant="east" value="153.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="990"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="80"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+					<point time="2016-08-14T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="34.6"/>
+							<longitude quadrant="east" value="151.0"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+							    <maxwind unit="m/s" value="23"/>
+							    <gust unit="m/s" value="30"/>
+							    <central_pressure unit="hPa" value="989"/>
+						    </intensity>
+						    <structure>
+							    <wind_distribution wind_grade="7">
+								    <dir>
+									    <angle unit="degree" start="0" end="45"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="45" end="90"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="90" end="135"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="135" end="180"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="180" end="225"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="225" end="270"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="270" end="315"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+								    <dir>
+									    <angle unit="degree" start="315" end="360"/>
+									    <radius unit="km" value="150"/>
+								    </dir>
+							    </wind_distribution>
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="190"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+					<point time="2016-08-14T20:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="38.4"/>
+							<longitude quadrant="east" value="148.2"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+
+
+
+						    </intensity>
+						    <structure>
+
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="265"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+					<point time="2016-08-15T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="42.7"/>
+							<longitude quadrant="east" value="145.5"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+
+
+
+						    </intensity>
+						    <structure>
+
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="340"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+					<point time="2016-08-16T08:00:00+08:00">
+						<location>
+							<latitude quadrant="north" value="52.5"/>
+							<longitude quadrant="east" value="145.4"/>
+						</location>
+						<intensity_structure>
+                           <intensity>
+
+
+
+						    </intensity>
+						    <structure>
+
+
+						    </structure>
+						</intensity_structure>
+                      <proprability>
+                          <strike_radius percentage="70">
+                              <dir>
+                                  <angle unit="degree" start="0" end="360"/>
+                                  <radius unit="km" value="500"/>
+                              </dir>
+                          </strike_radius>
+                      </proprability>
+                  </point>
+				</fcst>
+			</typhdata>
+		</typhoon>
+	</typhinfo>
+</cwbtyphfcst>

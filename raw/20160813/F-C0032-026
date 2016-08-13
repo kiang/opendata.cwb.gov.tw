@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>c5287fb6-d66b-6444-8c12-eebd434bcf53</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T05:27:33+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-026</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T05:30:51+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>南投縣</locationName>
+      <stationId>46765</stationId>
+      <geocode>10008</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶持續影響，陰時多雲陣雨或雷雨，出門帶雨具、山區防落石。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>南投地區昨(12)日受到低壓帶影響，為多雲短暫陣雨的天氣，局部地區有大雨發生。北南投地區為多雲短暫陣雨的天氣，南南投地區為多雲短暫陣雨的天氣，仁愛信義山區為陰短暫陣雨的天氣。日月潭地區為陰短暫陣雨的天氣，最高氣溫為28.9度，最低氣溫為19.3度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>南投地區今(13)日持續受到低壓帶影響，為陰時多雲陣雨或雷雨的天氣，白天各地天氣依舊不穩定，降雨機會高，出門請攜帶雨具備用，勿到溪邊活動，山區道路慎防坍方或落石。北南投地區為陰時多雲陣雨或雷雨的天氣，氣溫約為25-31度。南南投地區為陰時多雲陣雨或雷雨的天氣，氣溫約為25-31度。仁愛信義山區為陰時多雲陣雨或雷雨的天氣，氣溫約為17-27度。日月潭地區為陰時多雲陣雨或雷雨的天氣，氣溫約為22-30度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>山區雲量稍多部分地區易有濃霧，行車請多小心。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1"><identifier>7d85981c-74c6-13ab-19b8-b0aaa9e32a8f</identifier><sender>weather@cwb.gov.tw</sender><sent>2016-08-12T15:45:30+08:00</sent><status>Actual</status><msgType>Issue</msgType><dataid>C0035-006</dataid><dataset><resource><resourceDesc>???????(?0?)</resourceDesc><mimeType>image/jpeg</mimeType><uri>http://opendata.cwb.gov.tw/opendata/MFC/F-C0035-006.jpg</uri></resource></dataset></cwbopendata>

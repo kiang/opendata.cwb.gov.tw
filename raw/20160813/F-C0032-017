@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>9f4f9929-5145-2a81-d006-63e00a078a0f</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T07:27:37+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-017</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T07:31:48+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>高雄市</locationName>
+      <stationId>46744</stationId>
+      <geocode>64</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>今日受低壓帶影響，為陰陣雨或雷雨的天氣。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>高雄市昨（12）日市區為陰短暫雨。氣溫為25.2～29.1度。相對濕度78～92％。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>高雄市今（13）日平地為陰陣雨或雷雨，溫度27~29度，降雨機率70%。丘陵區(旗山)為陰陣雨或雷雨，溫度25~29度，降雨機率70%。山區（六龜）為陰陣雨或雷雨，溫度23~29度，降雨機率80%。今(13）日受低壓帶影響，為陰陣雨或雷雨的天氣。民眾外出請記得攜帶雨具，野外活動注意小心雷擊。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>高雄沿海今（13）日東南風轉偏南風，4級以下雷雨區陣風8級下午轉5至6雷雨區陣風9級，浪高1轉2再轉3公尺公尺，沿海有長浪，從事海上活動請小心。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>旗津海域今（13）日乾潮時間11：58，滿潮時間03：36，海濱戲水請注意漲潮時間。日落時間18：32(看夕陽請在此時間之前)。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

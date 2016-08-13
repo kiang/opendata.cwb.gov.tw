@@ -1,0 +1,2862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier >43006e07-3d17-5111-421c-52e506b2689d</identifier>
+    <sender >weather@cwb.gov.tw</sender>
+    <sent >2016-08-12T16:42:05+08:00</sent>
+    <status >Actual</status>
+    <msgType >Issue</msgType>
+    <source >MFC</source>
+    <dataid >C0032-008</dataid>
+    <scope >Public</scope>
+    <dataset >
+        <datasetInfo>
+            <datasetDescription>Global Cities Weather Forecast</datasetDescription>
+            <issueTime>2016-08-12T16:30:00+08:00</issueTime>
+            <update>2016-08-12T16:42:05+08:00</update>
+</datasetInfo>
+        <location>
+            <locationName>TOKYO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>OSAKA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SEOUL</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BANGKOK</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>JAKARTA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KUALA LUMPUR</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SINGAPORE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MANILA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KATHMANDU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HO CHI MINH</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HANOI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NEW DELHI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ISTANBUL</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MOSKVA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>11</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>VLADIVOSTOK</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HABAROVSK</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>GUAM</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HONOLULU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LOS ANGELES</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SAN FRANCISCO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>12</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SEATTLE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LAS VEGAS</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>42</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NEW YORK</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>CHICAGO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>WASHINGTON DC</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MIAMI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>TORONTO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>VANCOUVER</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MONTREAL</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MEXICO CITY</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>RIO DE JANEIRO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BUENOS AIRES</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SANTIAGO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>7</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LIMA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>OSLO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>AMSTERDAM</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MADRID</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LISBON</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>37</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>COPENHAGEN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HELSINKI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>FRANKFURT</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BERLIN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>GENEVA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BRUSSELS</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LONDON</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PARIS</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>VIENNA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ROME</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>VENICE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>STOCKHOLM</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLOUDY</parameterName>
+                        <parameterValue>3</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BUDAPEST</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>12</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ATHENS</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>WARSAW</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>11</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PRAGUE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>JOHANNESBURG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>5</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>CAIRO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>37</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>WELLINGTON</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>12</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>AUCKLAND</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MELBOURNE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SYDNEY</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>8</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PERTH</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>5</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BRISBANE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>11</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>GUANGZHOU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HONGKONG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>FUZHOU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KUNMING</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>RAINY</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>CHONGQING</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>37</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>WUHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NANCHANG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HANGZHOU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>CLEAR</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SHANGHAI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NANJING</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>QINGDAO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>BEIJING</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KAIFENG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>XI'AN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SHENYANG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LANZHOU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HAIKOU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+</dataset>
+</cwbopendata>

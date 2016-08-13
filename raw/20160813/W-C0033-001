@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier>CWB-Weather_location_hazards_20160813094308</identifier>
+    <sender>weather@cwb.gov.tw</sender>
+    <sent>2016-08-13T09:43:08+08:00</sent>
+    <status>Actual</status>
+    <scope>Public</scope>
+    <msgType>Update</msgType>
+
+    <dataset>
+    
+        <location>
+            <locationName>基隆市</locationName>
+            <geocode>10017</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>臺北市</locationName>
+            <geocode>63</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>新北市</locationName>
+            <geocode>65</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>桃園市</locationName>
+            <geocode>68</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>新竹市</locationName>
+            <geocode>10018</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>新竹縣</locationName>
+            <geocode>10004</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>苗栗縣</locationName>
+            <geocode>10005</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>臺中市</locationName>
+            <geocode>66</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>彰化縣</locationName>
+            <geocode>10007</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>雲林縣</locationName>
+            <geocode>10009</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>南投縣</locationName>
+            <geocode>10008</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>嘉義縣</locationName>
+            <geocode>10010</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>嘉義市</locationName>
+            <geocode>10020</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>臺南市</locationName>
+            <geocode>67</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>高雄市</locationName>
+            <geocode>64</geocode>
+            <hazardConditions>
+            
+                <hazards>
+                    <info>
+                        <language>zh-TW</language>
+                        <phenomena>大雨</phenomena>
+                        <significance>特報</significance>
+                    </info>
+                    <validTime>
+                        <startTime>2016-08-13T09:33:00+08:00</startTime>
+                        <endTime>2016-08-13T20:00:00+08:00</endTime>
+                    </validTime>
+                    <hazard>
+                        <info>
+                            <language>zh-TW</language>
+                            <phenomena>大雨</phenomena>
+                            <affectedAreas>
+                            <location><locationName>平地</locationName></location><location><locationName>山區</locationName></location>
+                            </affectedAreas>
+                        </info>
+                    </hazard>
+                </hazards>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>屏東縣</locationName>
+            <geocode>10013</geocode>
+            <hazardConditions>
+            
+                <hazards>
+                    <info>
+                        <language>zh-TW</language>
+                        <phenomena>大雨</phenomena>
+                        <significance>特報</significance>
+                    </info>
+                    <validTime>
+                        <startTime>2016-08-13T09:33:00+08:00</startTime>
+                        <endTime>2016-08-13T20:00:00+08:00</endTime>
+                    </validTime>
+                    <hazard>
+                        <info>
+                            <language>zh-TW</language>
+                            <phenomena>大雨</phenomena>
+                            <affectedAreas>
+                            <location><locationName>山區</locationName></location><location><locationName>平地</locationName></location><location><locationName>恆春半島</locationName></location>
+                            </affectedAreas>
+                        </info>
+                    </hazard>
+                </hazards>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>宜蘭縣</locationName>
+            <geocode>10002</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>花蓮縣</locationName>
+            <geocode>10015</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>臺東縣</locationName>
+            <geocode>10014</geocode>
+            <hazardConditions>
+            
+                <hazards>
+                    <info>
+                        <language>zh-TW</language>
+                        <phenomena>大雨</phenomena>
+                        <significance>特報</significance>
+                    </info>
+                    <validTime>
+                        <startTime>2016-08-13T09:33:00+08:00</startTime>
+                        <endTime>2016-08-13T20:00:00+08:00</endTime>
+                    </validTime>
+                    <hazard>
+                        <info>
+                            <language>zh-TW</language>
+                            <phenomena>大雨</phenomena>
+                            <affectedAreas>
+                            <location><locationName>平地</locationName></location><location><locationName>山區</locationName></location><location><locationName>蘭嶼綠島</locationName></location>
+                            </affectedAreas>
+                        </info>
+                    </hazard>
+                </hazards>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>澎湖縣</locationName>
+            <geocode>10016</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>金門縣</locationName>
+            <geocode>09020</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+        <location>
+            <locationName>連江縣</locationName>
+            <geocode>09007</geocode>
+            <hazardConditions>
+            
+            </hazardConditions>
+        </location>
+    
+    </dataset>
+</cwbopendata>

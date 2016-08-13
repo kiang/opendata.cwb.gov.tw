@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>b2d0fa57-b6e9-a4c7-bdbf-17549d12cc82</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T06:51:34+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-012</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T06:54:53+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>花蓮縣</locationName>
+      <stationId>46699</stationId>
+      <geocode>10015</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶影響，陰時多雲陣雨或雷雨，出門請攜雨具備用。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>花蓮地區昨(12)日，陰時多雲短暫雨，温度25~32度，豐濱降水最多達99.5mm。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>花蓮地區今(13)日，陰時多雲陣雨或雷雨，温度25~31度，緃谷地區23~31度，山邊地區温度較低，約24~30度，紫外線指數過量，請注意防曬，出門請攜雨具備用。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>花蓮沿海低壓帶影響【海上強風特報】今(13)日，東北轉偏南風，５至６雷雨區陣風９級，中浪至大浪，船隻及從事海上活動請小心注意。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

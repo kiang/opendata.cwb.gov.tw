@@ -1,0 +1,4518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier >8aa123ad-eb39-b973-85ed-f12f6079f15c</identifier>
+    <sender >weather@cwb.gov.tw</sender>
+    <sent >2016-08-13T11:03:34+08:00</sent>
+    <status >Actual</status>
+    <msgType >Issue</msgType>
+    <source >MFC</source>
+    <dataid >C0032-004</dataid>
+    <scope >Public</scope>
+    <dataset >
+        <datasetInfo>
+            <datasetDescription>Seven days Weather Forecast</datasetDescription>
+            <issueTime>2016-08-13T11:00:00+08:00</issueTime>
+            <update>2016-08-13T11:03:34+08:00</update>
+</datasetInfo>
+        <location>
+            <locationName>TAIPEI CITY</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NORTH AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>CENTRAL AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SOUTH AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>NORTH-EAST AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>EAST AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SOUTH-EAST AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>PENGHU AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KINMEN AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>MATSU AREA</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>YANGMINGSHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LALASHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL AFTERNOON THUNDERSHOWERS</parameterName>
+                        <parameterValue>18</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LISHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>HEHUAN MOUNTAIN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SUN MOON LAKE</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>XITOU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>ALISHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>YUSHAN</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>6</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>6</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>6</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>6</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>7</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>7</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>7</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>KENTING</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LIUQIUYU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LONGDONG</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>TAROKO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>SANXIANTAI</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LUDAO</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>LANYU</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>MOSTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSTORMS</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>PARTLY CLOUDY WITH OCCASIONAL SHOWERS OR THUNDERSHOWERS</parameterName>
+                        <parameterValue>17</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T12:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-14T00:00:00+08:00</startTime>
+                    <endTime>2016-08-15T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-15T00:00:00+08:00</startTime>
+                    <endTime>2016-08-16T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-16T00:00:00+08:00</startTime>
+                    <endTime>2016-08-17T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-17T00:00:00+08:00</startTime>
+                    <endTime>2016-08-18T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-18T00:00:00+08:00</startTime>
+                    <endTime>2016-08-19T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-08-19T00:00:00+08:00</startTime>
+                    <endTime>2016-08-20T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+</dataset>
+</cwbopendata>

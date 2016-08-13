@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>4d71a0b1-a915-91a0-6ff4-988f16e130cd</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T07:42:38+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-029</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T07:47:17+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>雲林縣</locationName>
+      <stationId>46777</stationId>
+      <geocode>10009</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>低壓帶影響，陰時多雲陣雨或雷雨，外出請攜帶雨具。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨天(12日)雲林地區受低壓帶影響，為多雲短暫陣雨或雷雨的天氣，白天悶熱。氣溫方面：沿海區氣溫25.8至28.4度，最大平均風力3級；平原區氣溫25.3至27.6度；近山區氣溫25至27.3度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天(13日)雲林地區受低壓帶影響，為陰時多雲陣雨或雷雨的天氣，白天悶熱，請適時補充水分，外出請攜帶雨具。氣溫方面：沿海區氣溫26至30度；平原區氣溫26至31度；近山區氣溫25至31度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>雲林海面今天(13日)風向西南轉偏南風，平均風力4級以下雷雨區陣風8級上午轉4至5雷雨區陣風8級下午再轉5至6雷雨區陣風9級，小浪轉中浪，陰時多雲局部陣雨或雷雨，海邊活動及海上作業船隻請注意。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

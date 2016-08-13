@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>0147dd3c-a389-6359-73a6-3a6e5bc8a943</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-13T07:00:34+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-019</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-13T07:04:21+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>嘉義市</locationName>
+      <stationId>46748</stationId>
+      <geocode>10020</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>熱帶性低氣壓影響，陰時多雲陣雨或雷雨</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨(12日)嘉義市區上整天為陰有雨的天氣。嘉義氣象站昨日最高溫27.7度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(13日)熱帶性低氣壓影響，嘉義市區為陰時多雲陣雨的天氣，鄉親外出請攜帶雨具備用，並提防瞬間大雨。預測溫度：26-31度。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

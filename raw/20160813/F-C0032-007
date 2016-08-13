@@ -1,0 +1,2862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier >9e83b216-381c-165d-cf1a-57c19c78db5a</identifier>
+    <sender >weather@cwb.gov.tw</sender>
+    <sent >2016-08-12T16:42:03+08:00</sent>
+    <status >Actual</status>
+    <msgType >Issue</msgType>
+    <source >MFC</source>
+    <dataid >C0032-007</dataid>
+    <scope >Public</scope>
+    <dataset >
+        <datasetInfo>
+            <datasetDescription>全球都市天氣預報</datasetDescription>
+            <issueTime>2016-08-12T16:30:00+08:00</issueTime>
+            <update>2016-08-12T16:42:03+08:00</update>
+</datasetInfo>
+        <location>
+            <locationName>東京</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>大阪</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>首爾</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>曼谷</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>雅加達</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>吉隆坡</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>新加坡</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>馬尼拉</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>加德滿都</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>胡志明市</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>河內</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>新德里</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>伊斯坦堡</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>莫斯科</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>11</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>海參威</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>伯力</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>關島</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>檀香山</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>洛杉磯</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>舊金山</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>12</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>西雅圖</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>拉斯維加斯</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>42</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>紐約</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>34</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>芝加哥</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>華盛頓特區</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>邁阿密</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>多倫多</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>溫哥華</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>蒙特婁</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>墨西哥城</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>里約</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>布宜諾斯艾利斯</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>聖地牙哥(智利)</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>7</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>利瑪</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>奧斯陸</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>阿姆斯特丹</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>馬德里</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>里斯本</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>37</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>哥本哈根</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>赫爾辛基</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>法蘭克福</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>柏林</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>日內瓦</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>布魯塞爾</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>倫敦</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>巴黎</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>維也納</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>羅馬</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>威尼斯</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>斯德哥爾摩</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陰天</parameterName>
+                        <parameterValue>3</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>13</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>布達佩斯</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>12</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>雅典</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>華沙</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>11</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>布拉格</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>14</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>約翰尼斯堡</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>5</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>開羅</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>37</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>威靈頓</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>12</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>奧克蘭</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>陣雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>15</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>10</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>墨爾本</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>16</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>9</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>雪梨</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>8</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>伯斯</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>5</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>布里斯班</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>11</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>廣州</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>香港</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>福州</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>32</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>昆明</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雨天</parameterName>
+                        <parameterValue>4</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>17</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>重慶</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>37</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>武漢</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>南昌</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>杭州</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>晴天</parameterName>
+                        <parameterValue>1</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>上海</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>南京</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>28</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>青島</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>27</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>北京</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>開封</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>35</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>西安</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>36</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>瀋陽</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>蘭州</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>33</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>23</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+        <location>
+            <locationName>海口</locationName>
+            <weatherElement>
+                <elementName>Wx</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>雷雨</parameterName>
+                        <parameterValue>36</parameterValue>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MaxT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>31</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+            <weatherElement>
+                <elementName>MinT</elementName>
+                <time>
+                    <startTime>2016-08-13T00:00:00+08:00</startTime>
+                    <endTime>2016-08-14T00:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+</weatherElement>
+</location>
+</dataset>
+</cwbopendata>
