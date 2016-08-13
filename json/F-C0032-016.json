@@ -1,0 +1,39 @@
+{
+    "identifier": "f9324499-c6b2-b0b2-054f-9147731413a9",
+    "sender": "weather@cwb.gov.tw",
+    "sent": "2016-08-13T07:15:35+08:00",
+    "status": "Actual",
+    "msgType": "Issue",
+    "scope": "Public",
+    "dataid": "F-C0032-016",
+    "source": "Weather Forecast Center",
+    "dataset": {
+        "datasetInfo": {
+            "datasetDescription": "WeatherAssistant",
+            "datasetLanguage": "zh-TW",
+            "issueTime": "2016-08-13T07:20:04+08:00"
+        },
+        "location": {
+            "locationName": "台南市",
+            "stationId": "46741",
+            "geocode": "67"
+        },
+        "parameterSet": {
+            "parameterSetName": "天氣小幫手描述",
+            "parameter": [
+                {
+                    "parameterValue": "【有短暫陣雨或雷雨，局部地區有較大雨勢發生的機率。】"
+                },
+                {
+                    "parameterValue": "昨天(12日) 受低壓帶影響，臺南市有短暫陣雨或雷雨，局部地區有較大雨勢發生，清晨左鎮區時雨量超過40毫米達大雨標準，中西區中午最高溫29.1度。"
+                },
+                {
+                    "parameterValue": "今天(13日)仍受低壓帶影響，臺南市有短暫陣雨或雷雨，局部地區有較大雨勢發生的機率，外出時請攜帶雨具備用，前往山區、溪邊活動的朋友，請注意瞬間大雨、雷擊、和溪水暴漲的情形發生。白天沒下雨時，天氣比較悶熱，高溫可達30度左右，沿海有長浪發生的機率，請注意。"
+                },
+                {
+                    "parameterValue": "「2016一見雙雕藝術季」於06-18～08-28舉行。沙雕︰馬沙溝濱海遊憩區(將軍區)。鹽雕︰臺灣鹽博物館、七股鹽山。關於將軍區及七股區的天氣預報請參考下列網頁：http:\/\/www.cwb.gov.tw\/V7\/forecast\/town368\/town2.php?townid=6703700"
+                }
+            ]
+        }
+    }
+}

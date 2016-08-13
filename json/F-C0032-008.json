@@ -1,0 +1,3021 @@
+{
+    "identifier": "43006e07-3d17-5111-421c-52e506b2689d",
+    "sender": "weather@cwb.gov.tw",
+    "sent": "2016-08-12T16:42:05+08:00",
+    "status": "Actual",
+    "msgType": "Issue",
+    "source": "MFC",
+    "dataid": "C0032-008",
+    "scope": "Public",
+    "dataset": {
+        "datasetInfo": {
+            "datasetDescription": "Global Cities Weather Forecast",
+            "issueTime": "2016-08-12T16:30:00+08:00",
+            "update": "2016-08-12T16:42:05+08:00"
+        },
+        "location": [
+            {
+                "locationName": "TOKYO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "32",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "23",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "OSAKA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SEOUL",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "34",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BANGKOK",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "34",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "JAKARTA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "33",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "KUALA LUMPUR",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "33",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SINGAPORE",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "34",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MANILA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "KATHMANDU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "20",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HO CHI MINH",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "32",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HANOI",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "32",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "NEW DELHI",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "34",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "ISTANBUL",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MOSKVA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "18",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "11",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "VLADIVOSTOK",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HABAROVSK",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "21",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "GUAM",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "30",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HONOLULU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "23",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "LOS ANGELES",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "31",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "19",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SAN FRANCISCO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "19",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "12",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SEATTLE",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "31",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "16",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "LAS VEGAS",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "42",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "28",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "NEW YORK",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "34",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "CHICAGO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "WASHINGTON DC",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MIAMI",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "31",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "TORONTO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "23",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "VANCOUVER",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "16",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MONTREAL",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "18",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MEXICO CITY",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "RIO DE JANEIRO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BUENOS AIRES",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "13",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SANTIAGO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "7",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "LIMA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "21",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "16",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "OSLO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "13",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "AMSTERDAM",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MADRID",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "33",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "19",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "LISBON",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "37",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "COPENHAGEN",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "19",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HELSINKI",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "18",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "FRANKFURT",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "15",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BERLIN",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "16",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "GENEVA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "28",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "13",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BRUSSELS",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "23",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "13",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "LONDON",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "23",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "16",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "PARIS",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "28",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "VIENNA",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "15",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "ROME",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "31",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "18",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "VENICE",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "20",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "STOCKHOLM",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLOUDY",
+                                "parameterValue": "3"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "20",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "13",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BUDAPEST",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "12",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "ATHENS",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "32",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "21",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "WARSAW",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "11",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "PRAGUE",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "14",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "JOHANNESBURG",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "22",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "5",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "CAIRO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "37",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "WELLINGTON",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "12",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "9",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "AUCKLAND",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "SHOWERS",
+                                "parameterValue": "12"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "15",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "10",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "MELBOURNE",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "16",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "9",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SYDNEY",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "20",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "8",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "PERTH",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "19",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "5",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BRISBANE",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "11",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "GUANGZHOU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "30",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HONGKONG",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "FUZHOU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "32",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "KUNMING",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "RAINY",
+                                "parameterValue": "4"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "17",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "CHONGQING",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "37",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "WUHAN",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "28",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "NANCHANG",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HANGZHOU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "CLEAR",
+                                "parameterValue": "1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SHANGHAI",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "35",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "28",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "NANJING",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "28",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "QINGDAO",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "31",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "27",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "BEIJING",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "33",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "25",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "KAIFENG",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "35",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "XI'AN",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "36",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "SHENYANG",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "29",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "24",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "LANZHOU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "PARTLY CLOUDY",
+                                "parameterValue": "2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "33",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "23",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "locationName": "HAIKOU",
+                "weatherElement": [
+                    {
+                        "elementName": "Wx",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "THUNDERSTORMS",
+                                "parameterValue": "36"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MaxT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "31",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "MinT",
+                        "time": {
+                            "startTime": "2016-08-13T00:00:00+08:00",
+                            "endTime": "2016-08-14T00:00:00+08:00",
+                            "parameter": {
+                                "parameterName": "26",
+                                "parameterUnit": "C"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

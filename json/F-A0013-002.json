@@ -1,0 +1,449 @@
+{
+    "identifier": "\n    88c32b58-5557-11e6-964b-78e3b5124e6c\n  ",
+    "sender": "\n    weather@cwb.gov.tw\n  ",
+    "sent": "\n    2016-07-29T14:41:52+08:00\n  ",
+    "status": "\n    Actual\n  ",
+    "msgType": "\n    Issue\n  ",
+    "dataid": "\n    A0013-004\n  ",
+    "scope": "\n    Public\n  ",
+    "dataset": {
+        "weatherElement": [
+            {
+                "elementName": "\n        平均氣溫機率預報\n      ",
+                "location": [
+                    {
+                        "locationName": "\n          北部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              0:60:40\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          中部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              0:60:40\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          南部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              0:60:40\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          東部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              0:60:40\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "elementName": "\n        平均氣溫氣候正常值範圍\n      ",
+                "location": [
+                    {
+                        "locationName": "\n          北部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              28.9~29.8\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              27.0~27.8\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              24.2~25.0\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          中部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              27.9~28.7\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              27.2~27.7\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              24.9~25.7\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          南部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              28.3~29.1\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              27.9~28.3\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              26.5~27.2\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          東部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              28.0~28.4\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              26.6~27.1\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              24.5~25.3\n            ",
+                                    "measures": "\n              攝氏\n            "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "elementName": "\n        雨量機率預報\n      ",
+                "location": [
+                    {
+                        "locationName": "\n          北部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          中部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          南部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          東部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              20:50:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              10:60:30\n            ",
+                                    "measures": "\n              %\n            "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "elementName": "\n        雨量氣候正常值範圍\n      ",
+                "location": [
+                    {
+                        "locationName": "\n          北部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              213.8~390.4\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              217.9~397.9\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              64.9~172.8\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          中部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              163.4~370.2\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              80.1~156.7\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              1.2~14.8\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          南部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              191.9~506.9\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              135.4~282.4\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              1.5~52.3\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "locationName": "\n          東部\n        ",
+                        "time": [
+                            {
+                                "dataTime": "\n            2016\/08\n          ",
+                                "elementValue": {
+                                    "value": "\n              106.5~315.0\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/09\n          ",
+                                "elementValue": {
+                                    "value": "\n              231.2~516.4\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            },
+                            {
+                                "dataTime": "\n            2016\/10\n          ",
+                                "elementValue": {
+                                    "value": "\n              140.0~418.4\n            ",
+                                    "measures": "\n              mm\n            "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

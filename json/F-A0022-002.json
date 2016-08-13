@@ -1,0 +1,16 @@
+{
+    "identifier": "9aff6337-c65b-444f-a1b5-01d6c01ba26e",
+    "sender": "weather@cwb.gov.tw",
+    "sent": "2016-08-13T04:33:11+08:00",
+    "status": "Actual",
+    "msgType": "Issue",
+    "dataid": "CWB_A0022",
+    "scope": "Public",
+    "dataset": {
+        "resource": {
+            "resourceDesc": "????",
+            "mimeType": "image\/jpeg",
+            "uri": "http:\/\/opendata.cwb.gov.tw\/opendata\/MMC\/F-A0022-002.jpg"
+        }
+    }
+}

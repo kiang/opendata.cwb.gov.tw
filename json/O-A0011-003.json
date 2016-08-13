@@ -1,0 +1,32 @@
+{
+    "identifier": "400d1426-6102-11e6-b2cd-2c44fd83e9f8",
+    "sender": "weather@cwb.gov.tw",
+    "sent": "2016-08-13T11:01:37+08:00",
+    "status": "Actual",
+    "msgType": "Issue",
+    "scope": "Public",
+    "source": "Telecommunications and Radar Division",
+    "dataset": {
+        "datasetinfo": {
+            "datasetDescription": "????",
+            "parameterset": [
+                {
+                    "parameterName": "????",
+                    "parameterValue": "120.0 - 121.998"
+                },
+                {
+                    "parameterName": "????",
+                    "parameterValue": "21.874 - 23.87"
+                }
+            ]
+        },
+        "time": {
+            "obsTime": "2016-08-13T10:54:00+08:00"
+        },
+        "resource": {
+            "resourceDesc": "?????",
+            "mimeType": "image\/jpeg",
+            "uri": "http:\/\/opendata.cwb.gov.tw\/opendata\/DIV4\/O-A0011-003.jpg"
+        }
+    }
+}

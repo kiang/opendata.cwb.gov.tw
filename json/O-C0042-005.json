@@ -1,0 +1,35 @@
+{
+    "identifier": "fe5f4fd5-c73c-4707-9c9f-64700d598544",
+    "sender": "weather@cwb.gov.tw",
+    "sent": "2016-08-13T10:48:46+08:00",
+    "status": "Actual",
+    "msgType": "Issue",
+    "scope": "Public",
+    "dataid": "C0042-005",
+    "source": "Meteorological Satellite Center",
+    "dataset": {
+        "datasetInfo": {
+            "datasetDescription": "????",
+            "parameterSet": {
+                "parameter": [
+                    {
+                        "parameterName": "????",
+                        "parameterValue": "60.0 - 240.0"
+                    },
+                    {
+                        "parameterName": "????",
+                        "parameterValue": "-90.0 - 90.0"
+                    }
+                ]
+            }
+        },
+        "resource": {
+            "resourceDesc": "????????????????",
+            "mimeType": "image\/jpeg",
+            "uri": "http:\/\/opendata.cwb.gov.tw\/opendata\/MSC\/O-C0042-005.jpg"
+        },
+        "time": {
+            "obsTime": "2016-08-13T10:30:00+08:00"
+        }
+    }
+}

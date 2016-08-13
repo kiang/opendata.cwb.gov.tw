@@ -1,0 +1,1883 @@
+{
+    "identifier": "9a503315-ee07-49e3-bf22-02145ff12a5d",
+    "sender": "weather@cwb.gov.tw",
+    "sent": "2016-08-01T16:37:39+08:00",
+    "status": "Actual",
+    "msgType": "Issue",
+    "dataid": "CWB_A0009",
+    "scope": "Public",
+    "dataset": {
+        "location": [
+            {
+                "stationId": "72C44",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "*28.2"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "*35.2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-14",
+                            "elementValue": {
+                                "value": "*23.7"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "*82.4"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "*262.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "*2.6"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "*SW"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "*138.9"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "*508.53"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "*83.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "*27.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "*27.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "*27.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "*28.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "*27.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "*26.7"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "82C16",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "27.9"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-07",
+                            "elementValue": {
+                                "value": "35.2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-14",
+                            "elementValue": {
+                                "value": "22.9"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "*90.4"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "282.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "2.4"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "W"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "206.4"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "546.4"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "*152.7"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "28.7"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "28.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "28.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "27.8"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "27.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "25.3"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72D08",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "22.5"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-01",
+                            "elementValue": {
+                                "value": "31.8"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-07",
+                            "elementValue": {
+                                "value": "18.1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "84.1"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "168.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "0.5"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "SE"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "98.8"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "244.89"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "47.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "24.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "23.8"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "23.6"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "23.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "22.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "21.3"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "K2E36",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.6"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "35.7"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-08",
+                            "elementValue": {
+                                "value": "23.3"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "76.9"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "176.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "2.2"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "SSW"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "194.2"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "548.31"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "114.6"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "29.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "29.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "28.9"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "28.6"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "26.9"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "G2F82",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.4"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-27",
+                            "elementValue": {
+                                "value": "35.8"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-09",
+                            "elementValue": {
+                                "value": "23.7"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "82.0"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "352.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "2.6"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "SSE"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "535.14"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "116.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "28.7"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "28.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "26.9"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "27.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "27.4"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72G60",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.9"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "35.5"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-06",
+                            "elementValue": {
+                                "value": "24.0"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "84.1"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "210.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "1.1"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "SSE"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "174.4"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "554.67"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "153.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "30.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "30.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "30.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "29.8"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "29.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "28.6"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "U2H48",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "*20.0"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-16",
+                            "elementValue": {
+                                "value": "*29.0"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-21",
+                            "elementValue": {
+                                "value": "*15.9"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "*92.9"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "*379.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "*1.2"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "*S"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "*83.7"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "*368.4"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "*72.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "*25.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "*24.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "*24.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "*24.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "*24.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "*23.1"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "A2K36",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "XXX",
+                            "elementValue": {
+                                "value": "XXX"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "XXX",
+                            "elementValue": {
+                                "value": "XXX"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "-"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72K22",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.9"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "37.3"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-08",
+                            "elementValue": {
+                                "value": "23.1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "78.9"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "430.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "2.0"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "S"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "211.4"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "407.04"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "95.8"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "31.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "31.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "30.9"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "30.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "30.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "29.3"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72M36",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.9"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "37.5"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-19",
+                            "elementValue": {
+                                "value": "22.6"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "84.0"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "2.4"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "S"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "227.7"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "*97.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "29.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "29.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "29.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "28.9"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "28.0"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "B2N89",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.2"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "37.1"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-13",
+                            "elementValue": {
+                                "value": "23.0"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "85.0"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "*505.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "1.1"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "SE"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "216.7"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "*549.54"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "134.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "30.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "30.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "30.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "29.9"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "28.2"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72Q01",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "XXX",
+                            "elementValue": {
+                                "value": "XXX"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "XXX",
+                            "elementValue": {
+                                "value": "XXX"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "A2Q95",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "XXX",
+                            "elementValue": {
+                                "value": "XXX"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "XXX",
+                            "elementValue": {
+                                "value": "XXX"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "XXX"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "B2Q81",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "28.3"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-29",
+                            "elementValue": {
+                                "value": "35.5"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-10",
+                            "elementValue": {
+                                "value": "23.2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "*86.5"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "309.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "2.8"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "WNW"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "195.8"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "614.51"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "157.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "30.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "30.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "30.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "30.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "30.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "29.9"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72U48",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "27.7"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "35.9"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-15",
+                            "elementValue": {
+                                "value": "22.5"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "85.3"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "214.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "0.8"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "WSW"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "190.3"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "568.89"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "97.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "29.7"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "29.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "29.2"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "29.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.6"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "27.7"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72T25",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "27.9"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-28",
+                            "elementValue": {
+                                "value": "35.7"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-15",
+                            "elementValue": {
+                                "value": "22.7"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "83.6"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "*161.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "1.0"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "WNW"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "200.1"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "*529.99"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "115.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "29.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "29.6"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "29.3"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "29.0"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.7"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "26.8"
+                        }
+                    }
+                ]
+            },
+            {
+                "stationId": "72S20",
+                "time": {
+                    "dataTime": "105 06"
+                },
+                "weatherElement": [
+                    {
+                        "elementName": "平均氣溫",
+                        "elementValue": {
+                            "value": "26.9"
+                        }
+                    },
+                    {
+                        "elementName": "絕對最高氣溫",
+                        "time": {
+                            "obsTime": "105-06-16",
+                            "elementValue": {
+                                "value": "37.9"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "絕對最低氣溫",
+                        "time": {
+                            "obsTime": "105-06-08",
+                            "elementValue": {
+                                "value": "22.2"
+                            }
+                        }
+                    },
+                    {
+                        "elementName": "平均相對濕度",
+                        "elementValue": {
+                            "value": "84.3"
+                        }
+                    },
+                    {
+                        "elementName": "總降雨量mm",
+                        "elementValue": {
+                            "value": "164.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均風速m\/s",
+                        "elementValue": {
+                            "value": "1.3"
+                        }
+                    },
+                    {
+                        "elementName": "最多風向",
+                        "elementValue": {
+                            "value": "WSW"
+                        }
+                    },
+                    {
+                        "elementName": "總日照時數hrs",
+                        "elementValue": {
+                            "value": "162.2"
+                        }
+                    },
+                    {
+                        "elementName": "總日射量MJ\/m2",
+                        "elementValue": {
+                            "value": "334.71"
+                        }
+                    },
+                    {
+                        "elementName": "總蒸發量mm(120cm)",
+                        "elementValue": {
+                            "value": "119.5"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(5cm)",
+                        "elementValue": {
+                            "value": "28.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(10cm)",
+                        "elementValue": {
+                            "value": "29.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(20cm)",
+                        "elementValue": {
+                            "value": "29.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(30cm)",
+                        "elementValue": {
+                            "value": "29.1"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(50cm)",
+                        "elementValue": {
+                            "value": "28.4"
+                        }
+                    },
+                    {
+                        "elementName": "平均地溫(100cm)",
+                        "elementValue": {
+                            "value": "27.5"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
