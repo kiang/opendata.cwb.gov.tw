@@ -1,0 +1,508 @@
+{
+    "locationName": "臺南市",
+    "geocode": "67",
+    "hazardConditions": {},
+    "helper": [
+        "【有短暫陣雨或雷雨，局部地區有較大雨勢發生的機率。】",
+        "昨天(12日) 受低壓帶影響，臺南市有短暫陣雨或雷雨，局部地區有較大雨勢發生，清晨左鎮區時雨量超過40毫米達大雨標準，中西區中午最高溫29.1度。",
+        "今天(13日)仍受低壓帶影響，臺南市有短暫陣雨或雷雨，局部地區有較大雨勢發生的機率，外出時請攜帶雨具備用，前往山區、溪邊活動的朋友，請注意瞬間大雨、雷擊、和溪水暴漲的情形發生。白天沒下雨時，天氣比較悶熱，高溫可達30度左右，沿海有長浪發生的機率，請注意。",
+        "「2016一見雙雕藝術季」於06-18～08-28舉行。沙雕︰馬沙溝濱海遊憩區(將軍區)。鹽雕︰臺灣鹽博物館、七股鹽山。關於將軍區及七股區的天氣預報請參考下列網頁：http:\/\/www.cwb.gov.tw\/V7\/forecast\/town368\/town2.php?townid=6703700"
+    ],
+    "recent": [
+        {
+            "elementName": "Wx",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "陰短暫陣雨或雷雨",
+                        "parameterValue": "36"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                }
+            ]
+        },
+        {
+            "elementName": "MaxT",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "elementName": "MinT",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "elementName": "CI",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "悶熱"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "悶熱"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "悶熱至易中暑"
+                    }
+                }
+            ]
+        },
+        {
+            "elementName": "PoP",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "60",
+                        "parameterUnit": "百分比"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "50",
+                        "parameterUnit": "百分比"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "40",
+                        "parameterUnit": "百分比"
+                    }
+                }
+            ]
+        }
+    ],
+    "week": [
+        {
+            "elementName": "Wx",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "陰短暫陣雨或雷雨",
+                        "parameterValue": "36"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T18:00:00+08:00",
+                    "endTime": "2016-08-15T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-15T06:00:00+08:00",
+                    "endTime": "2016-08-15T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-15T18:00:00+08:00",
+                    "endTime": "2016-08-16T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-16T06:00:00+08:00",
+                    "endTime": "2016-08-16T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-16T18:00:00+08:00",
+                    "endTime": "2016-08-17T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-17T06:00:00+08:00",
+                    "endTime": "2016-08-17T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-17T18:00:00+08:00",
+                    "endTime": "2016-08-18T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-18T06:00:00+08:00",
+                    "endTime": "2016-08-18T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-18T18:00:00+08:00",
+                    "endTime": "2016-08-19T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-19T06:00:00+08:00",
+                    "endTime": "2016-08-19T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲短暫陣雨或雷雨",
+                        "parameterValue": "17"
+                    }
+                },
+                {
+                    "startTime": "2016-08-19T18:00:00+08:00",
+                    "endTime": "2016-08-20T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "多雲",
+                        "parameterValue": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "elementName": "MaxT",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T18:00:00+08:00",
+                    "endTime": "2016-08-15T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-15T06:00:00+08:00",
+                    "endTime": "2016-08-15T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-15T18:00:00+08:00",
+                    "endTime": "2016-08-16T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-16T06:00:00+08:00",
+                    "endTime": "2016-08-16T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-16T18:00:00+08:00",
+                    "endTime": "2016-08-17T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-17T06:00:00+08:00",
+                    "endTime": "2016-08-17T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-17T18:00:00+08:00",
+                    "endTime": "2016-08-18T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-18T06:00:00+08:00",
+                    "endTime": "2016-08-18T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-18T18:00:00+08:00",
+                    "endTime": "2016-08-19T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-19T06:00:00+08:00",
+                    "endTime": "2016-08-19T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "33",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-19T18:00:00+08:00",
+                    "endTime": "2016-08-20T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "31",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        },
+        {
+            "elementName": "MinT",
+            "time": [
+                {
+                    "startTime": "2016-08-13T12:00:00+08:00",
+                    "endTime": "2016-08-13T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-13T18:00:00+08:00",
+                    "endTime": "2016-08-14T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T06:00:00+08:00",
+                    "endTime": "2016-08-14T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-14T18:00:00+08:00",
+                    "endTime": "2016-08-15T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-15T06:00:00+08:00",
+                    "endTime": "2016-08-15T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-15T18:00:00+08:00",
+                    "endTime": "2016-08-16T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-16T06:00:00+08:00",
+                    "endTime": "2016-08-16T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-16T18:00:00+08:00",
+                    "endTime": "2016-08-17T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-17T06:00:00+08:00",
+                    "endTime": "2016-08-17T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-17T18:00:00+08:00",
+                    "endTime": "2016-08-18T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-18T06:00:00+08:00",
+                    "endTime": "2016-08-18T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-18T18:00:00+08:00",
+                    "endTime": "2016-08-19T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-19T06:00:00+08:00",
+                    "endTime": "2016-08-19T18:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                },
+                {
+                    "startTime": "2016-08-19T18:00:00+08:00",
+                    "endTime": "2016-08-20T06:00:00+08:00",
+                    "parameter": {
+                        "parameterName": "29",
+                        "parameterUnit": "C"
+                    }
+                }
+            ]
+        }
+    ]
+}
